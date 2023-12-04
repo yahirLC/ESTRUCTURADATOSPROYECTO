@@ -1,0 +1,13 @@
+9780062315007,El alquimista,Paulo Coelho,Ficción espiritual,53
+9780141442464,El retrato de Dorian Gray,Oscar Wilde,Ficción gótica,6
+9780307388673,La sombra del viento,Carlos Ruiz Zafón,Ficción histórica,5
+9780307473066,El psicoanalista,Carlos Ruiz Zafón,Ficción histórica,5
+9780307474278,El código Da Vinci,Carlos Ruiz Zafón,Ficción histórica,5
+9780307474728,Cien años de soledad,Gabriel García Márquez,Realismo mágico,52
+9780385490818,El cuento de la criada,Margaret Atwood,Distopía,73
+9780385751537,El niño con el pijama de rayas,John Boyne,Ficción histórica,24
+9780451524935,1984,George Orwell,Distopía,25
+9780544003415,El señor de los anillos,J.R.R. Tolkien,Fantasía épica,45
+9780743273565,El gran Gatsby,F. Scott Fitzgerald,Ficción literaria,34
+9781501117039,La casa de los espíritus,Isabel Allende,Ficción literaria,101
+9788401352836,El nombre del viento,Patrick Rothfuss,Fantasía épica,3
